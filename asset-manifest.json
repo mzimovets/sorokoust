@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ca5ac0a.css",
+    "main.js": "/static/js/main.b84c7acd.js",
+    "static/media/sorok-bg.png": "/static/media/sorok-bg.9ff1942a9e4b8c346215.png",
+    "static/media/Rodnik.otf": "/static/media/Rodnik.b8d3d45ceb948681ac3a.otf",
+    "static/media/itccharterpro.otf": "/static/media/itccharterpro.c59ee4a4d28e20ce3180.otf",
+    "index.html": "/index.html",
+    "main.2ca5ac0a.css.map": "/static/css/main.2ca5ac0a.css.map",
+    "main.b84c7acd.js.map": "/static/js/main.b84c7acd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca5ac0a.css",
+    "static/js/main.b84c7acd.js"
+  ]
+}
